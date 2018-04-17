@@ -7,7 +7,7 @@ make master.pdf
 ```
 
 ## Template
-Check out the template [here](https://github.com/StefanosChaliasos/internship-report-template/template/master.pdf).
+Check out the template [here](https://github.com/StefanosChaliasos/internship-report-template/blob/master/template/master.pdf).
 
 ## Licence
 This project is licensed under the GNU Lesser General Public License v3.0
